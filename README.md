@@ -8,10 +8,13 @@
 
 🔭 **Current Projects:**
 - Air quality anomaly detection (FastAPI + MLflow + LSTM)
-- A-10 Thunderbolt II — Space Fighter Concept (Northrop Grumman pitch)
-- Urban anti-fraud intelligence for public transportation
+  
+- HerWay : Every street. Every night. In safety!
+
+- Space Fighter Concept ( pitch)
+
 
 📍 France 🇫🇷 ⇄ New York 🇺🇸  
-💬 Available for bold collaborations in AI, Space & Defense
+💬 Available for bold collaborations in AI, Space & Defense 
 
 william.couturier@protonmail.com
