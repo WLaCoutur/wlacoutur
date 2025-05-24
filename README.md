@@ -1,17 +1,11 @@
-#  William Couturier
+👋 Hello, I'm William Couturier
+🚀 From Law Enforcement to AI/Data Science
+Former Judicial Police Officer turned AI & Data Science Professional | 30 years protecting society's most vulnerable → Now building ethical AI for humanity's future
 
-Ex-Police Officer transformed into Data Scientist & Aerospace Strategist  
-Building at the intersection of AI, space defense & critical systems  
-FastAPI | MLflow | LSTM | Python | Data Visualization  
+About Me
+At 55, I made a deliberate career transition from criminal investigations to AI/Data Science, bringing a unique perspective on human behavior analysis, ethical decision-making, and risk assessment to the world of technology.
 
-## Personal Innovation Portfolio
--  **A-10 Spacebolt** - Revolutionary orbital defense platform adapting proven aerospace technology for strategic space dominance
--  **HerWay** - Urban navigation system revolutionizing nighttime safety through predictive AI pathfinding
--  **Air Quality Anomaly Detection** - Environmental intelligence leveraging ML to transform critical infrastructure risk management
-
- Based in France 🇫🇷 & New York 🇺🇸  
- Open to bold collaborations that transform data into missions that matter
-
-"The future will not be conquered by the most complex dreams, but by machines that still fly when everything else falls."
-
-william.couturier@protonmail.com
+   Former: 30 years in criminal investigations, child protection, and crisis management
+   Now: AI/ML Developer certified in ethical AI implementation
+   Philosophy: "I see AI as a child learning—the values we teach it will shape our future"
+   Inspiration: Star Trek's Prime Directive applied to AI development
